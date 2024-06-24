@@ -1,3 +1,3 @@
 # proyecto-grupo
-Proyecto para aprender a manipular comandos y funcionalidades en Git y GitHub.
-Cambio de Jose
+PROYECTO PARA APRENDER A MANIPULAR COMANDOS Y FUNCIONALIDADES DE GIT Y GITHUB.
+CAMBIO POR JOSÉ
